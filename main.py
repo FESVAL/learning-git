@@ -6,3 +6,4 @@ for x in range (1,101):
     b.append(x**3)
 print(a) 
 print(b)
+#тестовий коментар
